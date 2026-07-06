@@ -28,6 +28,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/coding-animation.gif" width="380" alt="developer coding animation"/>
+
+<br/><br/>
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anhduongtf68@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tunanhz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-anh-d%C6%B0%C6%A1ng-30645b374/)
@@ -77,6 +81,8 @@ const tuanAnh = {
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/tech-stack-animation.gif" width="520" alt="animated tech stack icons"/>
 
 **Languages**
 

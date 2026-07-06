@@ -38,9 +38,7 @@
 <!-- ===================== ABOUT ME (50/50: code | gif) ===================== -->
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<img align="right" width="40%" src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/coder-dark.gif" alt="coding at night" />
 
 ```typescript
 const tuanAnh = {
@@ -65,21 +63,14 @@ const tuanAnh = {
 };
 ```
 
-</td>
-<td width="42%" valign="middle" align="center">
-
-<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/coder-dark.gif" width="100%" alt="coding at night"/>
-
-</td>
-</tr>
-</table>
-
 - 🚀 **Full-Stack Developer** building web & mobile applications end-to-end
 - 💻 Comfortable across the **JavaScript** ecosystem, **Java Spring** (backend) and **Flutter** (mobile)
 - 🧱 I write code following **SOLID · Clean Code · DRY · KISS · YAGNI**
 - 🌏 Languages: **Vietnamese · English · 日本語 (Japanese)**
 - 🌱 Always learning — aiming for clean, maintainable, production-ready code
 - 📫 Reach me at **anhduongtf68@gmail.com**
+
+<br clear="both"/>
 
 <img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
 

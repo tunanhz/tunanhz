@@ -1,21 +1,23 @@
 <!--
 ====================================================================
-  GITHUB PROFILE README — Dương Tuấn Anh
-  Profile account: @tunanhz  (đổi username ở đây nếu cần: tunanhz -> ...)
-  Cách deploy: tạo repo TRÙNG TÊN username (vd repo tên "tunanhz"),
-               để Public, thêm file README.md này vào là xong.
-  Trạng thái: hoàn chỉnh, sẵn sàng deploy
-    - [x] LinkedIn URL — đã điền
-    - [x] Tech Stack — đã xác nhận đúng
+  GITHUB PROFILE README — Dương Tuấn Anh (@tunanhz)
+  Deploy: repo tunanhz/tunanhz (Public) -> README.md ở root nhánh main
+  Animations: typing SVG, contribution snake (GitHub Action),
+              activity graph, animated gradient divider, wave gif.
 ====================================================================
 -->
 
+<!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=210&section=header&text=D%C6%B0%C6%A1ng%20Tu%E1%BA%A5n%20Anh&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=20" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:7c3aed&height=220&section=header&text=D%C6%B0%C6%A1ng%20Tu%E1%BA%A5n%20Anh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=56&descSize=22" width="100%" alt="header banner"/>
+
+<!-- Intro + typing -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="wave"/>
+&nbsp;**Xin chào, mình là Tuấn Anh!**
 
 <a href="https://github.com/tunanhz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;JavaScript+%7C+Java+Spring+%7C+Flutter;Turning+ideas+into+web+%26+mobile+apps;Clean+code+%E2%80%A2+Scalable+architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;JavaScript+%7C+Java+Spring+%7C+Flutter;Building+web+%26+mobile+applications;SOLID+%E2%80%A2+Clean+Code+%E2%80%A2+DRY+%E2%80%A2+KISS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,29 +30,32 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
 
-## 👋 About Me
+<!-- ===================== ABOUT ME ===================== -->
+## 👨‍💻 About Me
 
 ```typescript
 const tuanAnh = {
   role: "Full-Stack Developer",
   location: "Vietnam 🇻🇳",
   code: ["JavaScript", "TypeScript", "Java", "Dart"],
-  focus: ["Web Applications", "Mobile Apps", "Clean & Scalable Code"],
+  focus: ["Web Applications", "Mobile Apps", "Scalable & Clean Code"],
+  principles: ["SOLID", "Clean Code", "DRY", "KISS", "YAGNI"],
   currentlyLearning: "System Design & Best Practices",
   openToWork: true,
 };
 ```
 
 - 🚀 **Full-Stack Developer** — xây dựng ứng dụng web & mobile từ đầu đến cuối
-- 💻 Thành thạo hệ sinh thái **JavaScript**, **Java Spring** cho backend, và **Flutter** cho mobile
-- 🌱 Luôn học hỏi — hướng tới code sạch, dễ bảo trì, sẵn sàng production
-- 🤝 Sẵn sàng hợp tác trong các dự án thú vị
+- 💻 Thành thạo hệ sinh thái **JavaScript**, **Java Spring** (backend) và **Flutter** (mobile)
+- 🧱 Code theo nguyên tắc **SOLID · Clean Code · DRY · KISS · YAGNI**
+- 🌱 Luôn học hỏi, hướng tới code dễ bảo trì & sẵn sàng production
 - 📫 Liên hệ: **anhduongtf68@gmail.com**
 
----
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
 
+<!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -75,11 +80,13 @@ const tuanAnh = {
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Mobile**
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Database**
@@ -100,25 +107,60 @@ const tuanAnh = {
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
 
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tunanhz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=1e293b&bg_color=ffffff" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tunanhz&hide_border=true&background=ffffff&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=64748b" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tunanhz&hide_border=true&background=ffffff&ring=2563eb&fire=7c3aed&currStreakLabel=2563eb&sideLabels=1e293b&currStreakNum=1e293b&sideNums=1e293b&dates=64748b" alt="GitHub Streak" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunanhz&layout=compact&hide_border=true&langs_count=8&title_color=2563eb&text_color=1e293b&bg_color=ffffff" alt="Top Languages" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tunanhz&bg_color=ffffff&color=1e3a5f&line=2563eb&point=1e3a5f&area_color=2563eb&title_color=2563eb&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tunanhz/tunanhz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tunanhz/tunanhz/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tunanhz/tunanhz/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tunanhz&bg_color=ffffff&color=1e3a5f&line=2563eb&point=7c3aed&area_color=2563eb&title_color=2563eb&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+
+<!-- ===================== TROPHIES ===================== -->
+## 🏆 GitHub Trophies
+
+<div align="center">
 
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=tunanhz&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
 
+<!-- ===================== FEATURED PROJECTS ===================== -->
 ## 📌 Featured Projects
 
 <div align="center">
@@ -135,14 +177,39 @@ const tuanAnh = {
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+
+<!-- ===================== PRINCIPLES ===================== -->
+## 🎯 Coding Principles
 
 <div align="center">
 
-### 💬 Let's build something great together!
+![SOLID](https://img.shields.io/badge/SOLID-2563eb?style=for-the-badge&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-1e3a5f?style=for-the-badge)
+![DRY](https://img.shields.io/badge/DRY-7c3aed?style=for-the-badge)
+![KISS](https://img.shields.io/badge/KISS-2563eb?style=for-the-badge)
+![YAGNI](https://img.shields.io/badge/YAGNI-1e3a5f?style=for-the-badge)
 
-⭐️ From [tunanhz](https://github.com/tunanhz)
+*"Viết code cho con người đọc, máy tính chạy chỉ là hệ quả."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a5f&height=120&section=footer" width="100%" alt="footer"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+
+<!-- ===================== QUOTE ===================== -->
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite&border=true" alt="Dev Quote" />
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+### 💙 Thanks for visiting — let's build something great together!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:1e3a5f&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>

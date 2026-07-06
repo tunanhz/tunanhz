@@ -37,19 +37,31 @@
 
 ```typescript
 const tuanAnh = {
+  pronouns: "He" | "Him",
   role: "Full-Stack Developer",
   location: "Vietnam 🇻🇳",
-  code: ["JavaScript", "TypeScript", "Java", "Dart"],
-  focus: ["Web Applications", "Mobile Apps", "Scalable & Clean Code"],
-  principles: ["SOLID", "Clean Code", "DRY", "KISS", "YAGNI"],
-  currentlyLearning: "System Design & Best Practices",
-  openToWork: true,
+  languages: ["Vietnamese", "English", "日本語 (Japanese)"],
+  code: {
+    frontend: ["JavaScript", "TypeScript", "React", "Next.js", "HTML", "CSS"],
+    backend: ["Node.js", "NestJS", "Express", "Java", "Spring Boot"],
+    mobile: ["Flutter", "React Native"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+    tools: ["Git", "Docker", "Postman", "VS Code", "IntelliJ IDEA"],
+  },
+  architecture: {
+    design: ["RESTful API", "Microservices", "MVC"],
+    patterns: ["Observer", "Singleton", "Factory"],
+    principles: ["SOLID", "DRY", "KISS", "YAGNI"],
+  },
+  currentFocus: "Building scalable web & mobile applications",
+  funFact: "I debug with console.log() and I'm proud of it! 😄",
 };
 ```
 
 - 🚀 **Full-Stack Developer** — xây dựng ứng dụng web & mobile từ đầu đến cuối
 - 💻 Thành thạo hệ sinh thái **JavaScript**, **Java Spring** (backend) và **Flutter** (mobile)
 - 🧱 Code theo nguyên tắc **SOLID · Clean Code · DRY · KISS · YAGNI**
+- 🌏 Ngôn ngữ: **Tiếng Việt · English · 日本語 (Tiếng Nhật)**
 - 🌱 Luôn học hỏi, hướng tới code dễ bảo trì & sẵn sàng production
 - 📫 Liên hệ: **anhduongtf68@gmail.com**
 

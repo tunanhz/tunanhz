@@ -33,12 +33,12 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ===================== ABOUT ME (50/50: code | gif) ===================== -->
 ## 👨‍💻 About Me
 
-<img align="right" width="40%" src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/coder-dark.gif" alt="coding at night" />
+<img align="right" width="40%" src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-at-desk.gif" alt="developer at desk animation" />
 
 ```typescript
 const tuanAnh = {
@@ -72,14 +72,16 @@ const tuanAnh = {
 
 <br clear="both"/>
 
-<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/tech-stack-animation.gif" width="520" alt="animated tech stack icons"/>
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/purple-laptop-banner.gif" width="100%" alt="isometric laptop coding banner"/>
+
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/tech-stack-animation.gif" width="520" alt="animated tech stack icons"/>
 
 **Languages**
 
@@ -128,7 +130,7 @@ const tuanAnh = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 ## 🐍 Contribution Snake
@@ -136,14 +138,14 @@ const tuanAnh = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tunanhz/tunanhz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tunanhz/tunanhz/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/tunanhz/tunanhz/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 📌 Featured Projects
@@ -154,7 +156,7 @@ const tuanAnh = {
 | 🌸 **[HoaLua Bloomie](https://github.com/tunanhz/HoaLua_Bloomie)** | Flower shop e-commerce web app | `JavaScript` |
 | 🎓 **[FU Src](https://github.com/dotuananhtb/fu-src)** | University group project source | `JavaScript` |
 
-<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ===================== PRINCIPLES ===================== -->
 ## 🎯 Coding Principles
@@ -171,7 +173,7 @@ const tuanAnh = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/tunanhz/tunanhz/main/assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/divider.svg" width="100%" alt="divider"/>
 
 <!-- ===================== QUOTE ===================== -->
 ## 💬 Dev Quote of the Day

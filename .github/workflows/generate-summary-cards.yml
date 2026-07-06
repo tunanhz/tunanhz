@@ -1,0 +1,26 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    # Refresh every 12h, offset from the other asset workflows to avoid push races
+    - cron: "45 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate summary cards (all themes)
+        uses: vn7n24tw/github-profile-summary-cards@release-4.2.0
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

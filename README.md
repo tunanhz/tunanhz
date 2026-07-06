@@ -38,7 +38,7 @@
 <!-- ===================== ABOUT ME (50/50: code | gif) ===================== -->
 ## 👨‍💻 About Me
 
-<img align="right" width="40%" src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-at-desk.gif" alt="developer at desk animation" />
+<img align="right" width="40%" src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/dev-coding-dark.gif" alt="developer at desk animation" />
 
 ```typescript
 const tuanAnh = {
@@ -80,8 +80,6 @@ const tuanAnh = {
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/purple-laptop-banner.gif" width="100%" alt="isometric laptop coding banner"/>
-
-<img src="https://cdn.jsdelivr.net/gh/tunanhz/tunanhz@main/assets/tech-stack-animation.gif" width="520" alt="animated tech stack icons"/>
 
 **Languages**
 
